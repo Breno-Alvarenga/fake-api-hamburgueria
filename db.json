@@ -4,13 +4,6 @@
       "email": "viniciusbreno11@gmail.com",
       "password": "$2a$10$XH9bt2hLnqgkMZ0ttbIa5OiZlNrN4g8Lvh8sjz/6foTgySMUaLjQa",
       "id": 1
-    },
-    {
-      "email": "renatin@gmail.com",
-      "password": "$2a$10$9o/Li3wwWatvcN4SfSvj8eY1erIE3yUtRw3cSqc5AfeT9isYqOCKO",
-      "name": "Renatin",
-      "passwordConfirm": "123456",
-      "id": 2
     }
   ],
   "products": [
@@ -32,7 +25,7 @@
     },
     {
       "id": 3,
-      "name": "Big Kenzie",
+      "name": "Big Burguer",
       "category": "Sanduíches",
       "price": 18,
       "img": "https://i.imgur.com/eEzZzcF.png",
