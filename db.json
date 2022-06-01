@@ -9,7 +9,7 @@
   "products": [
     {
       "id": 1,
-      "name": "Hamburguer",
+      "name": "Hamburger",
       "category": "Sanduíches",
       "price": 14,
       "img": "https://i.imgur.com/Vng6VzV.png",
@@ -17,7 +17,7 @@
     },
     {
       "id": 2,
-      "name": "X-Burguer",
+      "name": "X-Burger",
       "category": "Sanduíches",
       "price": 16,
       "img": "https://i.imgur.com/soOUeeW.png",
@@ -25,7 +25,7 @@
     },
     {
       "id": 3,
-      "name": "Big Burguer",
+      "name": "Big Burger",
       "category": "Sanduíches",
       "price": 18,
       "img": "https://i.imgur.com/eEzZzcF.png",
